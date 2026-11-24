@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Design Judgment Loop"
+  short_description: "Practice design judgment through a short choice exercise"
+  default_prompt: "Use $ai-design-judgment-loop to help me compare a few design directions and capture how my thinking changes."
+  brand_color: "#315CFF"
